@@ -4,3 +4,4 @@ oraz
 Zmiana03a
 Zmiana03b
 prostaWersja
+Zmiana2
