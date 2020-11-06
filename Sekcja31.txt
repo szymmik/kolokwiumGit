@@ -5,3 +5,4 @@ Zmiana03a
 Zmiana03b
 prostaWersja
 Zmiana2
+Zmiana05a
