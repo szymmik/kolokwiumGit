@@ -1,2 +1,6 @@
 Zmiana01
 Zmiana04
+oraz
+Zmiana03a
+Zmiana03b
+prostaWersja
